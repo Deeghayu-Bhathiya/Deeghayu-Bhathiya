@@ -1,4 +1,7 @@
-## Hi there Deeghayu Bhathiya👋
+
+
+
+<h1 align="center"> Hii,   I'm Deeghayu = ^.^ <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 
 Building Skills in Software & Web Development
 </h1>
@@ -33,17 +36,40 @@ Building Skills in Software & Web Development
 
 
 - 🔭 I’m currently working on **Personal projects to improve my frontend and programming fundamentals**
-@@ -37,6 +38,7 @@
+
+- 🌱 I’m currently learning **Programming languages, web development concepts, and software development fundamentals**
+
+- 👯 I’m looking to collaborate on **Beginner-friendly web development projects and open-source learning projects**
 
 - 🤝 I’m looking for help with **Improving real-world project structure and backend integration**
 <img align="right" height="270px" alt="GIF" src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif"  />
 
-- 👨‍💻 All of my projects are available at [GitHub](https://github.com/Deeghayu-Bhathiya), [LinkedIn](https://www.linkedin.com/in/deeghayu-bhathiya-366bb1243)
+- 👨‍💻 All of my projects are available at [GitHub](Deeghayu-Bhathiya), [LinkedIn](https://www.linkedin.com/in/deeghayu-bhathiya-366bb1243)
 
 - 💬 Ask me about **Frontend basics, beginner programming, and learning resources**
-@@ -64,3 +66,5 @@
+
+- 📫 How to reach me **deeghayubhathiyagithub2001@gmail.com**
+
+- ⚡ Fun fact **I prefer building skills quietly and consistently**
+
+<div align="center">
+  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon"width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="50" height="50" />
+ <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="50" height="50" />
+</div>
+<div align="center">
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="50" height="50" />
+</div>
+<!-- Snake Game Repo View -->
+
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
-<h3 align="center"><picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> 
+<h3 align="center"><picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> <h3 align="center"><picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> 
