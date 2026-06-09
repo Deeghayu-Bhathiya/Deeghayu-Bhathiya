@@ -44,7 +44,7 @@ Building Skills in Software & Web Development
 - 🤝 I’m looking for help with **Improving real-world project structure and backend integration**
 <img align="right" height="270px" alt="GIF" src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif"  />
 
-- 👨‍💻 All of my projects are available at [GitHub](Deeghayu-Bhathiya), [LinkedIn](https://www.linkedin.com/in/deeghayu-bhathiya-366bb1243)
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/Deeghayu-Bhathiya), [LinkedIn](https://www.linkedin.com/in/deeghayu-bhathiya-366bb1243)
 
 - 💬 Ask me about **Frontend basics, beginner programming, and learning resources**
 
